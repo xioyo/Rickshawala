@@ -1,0 +1,38 @@
+
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Form styling */
+  
+  form {
+    display: inline-block;
+  }
+  
+  .available,
+  .not-available {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .available {
+    background-color: #008CBA;
+    color: white;
+  }
+  
+  .not-available {
+    background-color: #F00;
+    color: white;
+  }

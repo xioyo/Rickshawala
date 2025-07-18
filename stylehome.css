@@ -1,0 +1,19 @@
+body{
+    font-family: "Poppins";
+}
+#imageAuto{
+    width: 600px;
+}
+h1{
+    font-size: 70px;
+}
+.mt-6{
+    margin-top: 150px;
+}
+.search{
+    border-radius: 10px;
+}
+.switch{
+    color: white;
+    text-decoration: none;
+}
